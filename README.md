@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/178896785379426304)](https://discord.com/users/178896785379426304)
+
+<a href="https://discord.com/users/849171428497424404">
+     <img src="https://lanyard.cnrad.dev/api/178896785379426304" width="400" height="200" />
+</a>
